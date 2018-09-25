@@ -1,4 +1,4 @@
-# use setwd() to set working directory containing the 'weardata' folder
+# use setwd() to set working directory to the working directory containing the 'weardata' folder
 #load packages
 library(tidyr)
 library(plyr)
